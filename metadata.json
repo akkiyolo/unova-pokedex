@@ -1,0 +1,5 @@
+{
+  "name": "Unova Pokédex",
+  "description": "A modern, responsive web application that provides a comprehensive Pokédex for the Unova region (Pokémon #494–649). Users can search, filter, sort, and view detailed information about each Pokémon, including their stats, abilities, and evolutions. It also features a favorites system and a dark mode toggle.",
+  "requestFramePermissions": []
+}
